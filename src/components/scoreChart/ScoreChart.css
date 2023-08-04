@@ -1,0 +1,41 @@
+.score-chart {
+  width: 30.87%;
+  height: 100%;
+  background-color: #fbfbfb;
+  border-radius: 5px;
+}
+
+.score-chart h3 {
+  position: absolute;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 24px;
+  margin-left: 1rem;
+  margin-top: 5px;
+}
+
+.score-chart-legend {
+  display: flex;
+  width: 95px;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+}
+
+.score-chart-legend .today-score {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: center;
+  color: #282d30;
+  margin-top: 10px;
+}
+
+.score-chart-legend p {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: center;
+  color: #74798c;
+  margin-top: 0;
+}

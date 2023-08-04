@@ -1,0 +1,10 @@
+.performance-chart {
+  width: 30.87%;
+  height: 100%;
+  background-color: #282d30;
+  border-radius: 5px;
+}
+
+.recharts-polar-grid-angle {
+  display: none;
+}

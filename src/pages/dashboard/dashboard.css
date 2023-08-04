@@ -1,0 +1,32 @@
+.charts {
+  width: 100%;
+  display: flex;
+  gap: 20px;
+  margin-left: 230px;
+  margin-top: 60px;
+  overflow: hidden;
+}
+
+.charts-left {
+  display: flex;
+  flex-direction: column;
+  width: 65%;
+  height: 50%;
+  gap: 30px;
+}
+
+.charts-right {
+  width: 35%;
+  margin-top: 130px;
+  margin-left: 0;
+  padding: left 0;
+}
+
+.charts-bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  height: 50%;
+  gap: 30px;
+}

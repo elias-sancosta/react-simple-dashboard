@@ -1,0 +1,15 @@
+.profil-container h1 {
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+.profil-container h1 .userName {
+  color: #ff0101;
+}
+
+.profil-container h3 {
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 24px;
+}

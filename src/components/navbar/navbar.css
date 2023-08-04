@@ -1,0 +1,44 @@
+header {
+  background-color: black;
+  height: 91px;
+  color: white;
+  font-family: 'Roboto';
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8rem;
+}
+
+.logo-container {
+  width: 178px;
+  margin-left: 28px;
+}
+
+.logo-container img {
+  object-fit: cover;
+  height: 100%;
+  width: 178px;
+}
+
+nav {
+  width: 90%;
+}
+
+nav ul {
+  list-style: none;
+  font-size: 1.2rem;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul a {
+  color: inherit;
+  text-decoration: none;
+}
+
+nav ul li a {
+  font-size: 1.3rem;
+  font-weight: 900;
+}
